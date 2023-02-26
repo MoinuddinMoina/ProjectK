@@ -1,0 +1,61 @@
+SQL	BIG DATA	GCS  CONSOLE & BIGQUERY	AIRFLOW	PYTHON
+what are the window functions	git hub commands	How to integrate GCP services with Other modlues 	what is the automation tool used in GCP	what is list, tuple,set
+difference between lead and lag IN SQL	what is serverless compute	Stoarage class in GCS and can we chnage onc class to anythoer class	trigger rules and operators in airflow	slicing in python
+Difference between normalised and denormalised data	what is data lake and data warehouse	Roles and Serives of Service account / and predifined roles 	composer and airflow difference 	palendrome code in python
+what is rank and dense rank in SQL and write the syntax	Extracting data from Oracle database to Gcs	"Diffrent files formats accpted by Big query 
+Cost effictive opeations in Big query and How to avoid it "	what are the diff tasks performed in dag	binary search in python
+query for removing special characters in SQL	What is ELT and ETL ... what are their uses	Look up transformation and what kind of tranformation are used in Big query 	write a cron job to triggr a dag for evry 6hours	Even number python
+department wise max salary	what is DIS. draw and explain the data ingestion flow	IAM roles and policy 		Generator in python
+what is the difference between GROUP BY and HAVING clause and WHERE clause	"what is hive
+what is the diff b/w bigdata,big table,big query
+How to get data from NAS to GCS bucket
+What are the challenges you face in bigquery"	Compute enginee models and images versions 		yield function in python
+what is full outer join	Max no. of tables u have in your project	Can we restrict access on object level in GCS 		lambda functions in python
+when we use WITH clause	What is the exact diff b/w airflow and ETL	Differnt Data bases and data storage compents in GCP 		multi threading in python
+what is difference between inner and outer join	diff b/w dataset , dataframe, database	How to connect NAS to Airflow by using GSUTIL 		how to convert list in tuple
+difference materialized and normal view	diff b/w RDD and dataframe	charges for different storage services in gcp like bigquery, gcs		*args and **kwargs  in python
+what is complex query in sql	what are the deployment models of cloud computing	what is data flow		what is generator in python and diff b/w module and package 
+query of last date of previous month	Etl tools	what is tha size of daily data received		names scape in python and what is tuple
+write a query using BETWEEN in sql	difference between OLTP & OLAP	what are the transformations u do in big query		decoraters in python
+write a query of 7th highest sal in emp table		what are the partitions performed in bq		
+what are the datatypes in sql		tell some BQ commands that were used		
+what is the query to count column in sql		What are the services offered by big query		
+Explainn different types of indexes in sql		BQ architecture		
+what is commit and rollback			what are the different quality issues faced during data loading	
+what is the difference b/w query and sub query			what is the command for casting the data	
+How o load 100 files to 100 tables at once		what is shuffling in big query		
+subsets of sets		how will you remove duplicate values in BQ table		
+how many ways of indexes we can create on a table		What is partition and clustering in big query		
+sql query to count duplicate records in a table		GCS storage classes		
+sql queryto find the last transaction in a debit card		BQload command in json format		
+		without loading the data into BQ how can we read the file		
+		command to create a bucket		
+		how to enable the BQ audit logs		
+		what is file system in bq		
+		what is the command line to export data in bq		
+		difference between casting and safe casting		
+		how to load data from gcs bucket to bq and how days it will be store in staging after loading in to it		
+		how many typesof views		
+		what are the transformations u have done in history layer		
+		In gcs how any days the data will be available		
+		how to check data consumption in a query		
+		how to store or save the result of bigquery		
+		what is the difference b/w gcs and bigquery		
+		what are the services offered by gcp and features of gcp		
+		what is diff b/w app engine , compute engine, cloud engine		
+		what is parquet,kafka , composer		
+		what is diff b/w app engine , compute engine, cloud engine		
+		what is parquet,kafka , composer		
+		whatare the optimization techniques in bq		
+		what are the diff ways to load data in bq		
+		what is partition table and how do create partition table		
+		which is more cost efficient among gcs and bq and explain why		
+		In source data has a database and in structured format and why to make structure in BQ		
+		Have you created any user defined func in your project and what type of funcs were created		
+		What are the ways of loading data in BQ with out SDK		
+		Name the diff types of schemes of tables in BQ 		
+		Explain the IAM policies in console		
+		what are the versions of composer and difference between them		
+		EUCALYPTUS in gcp		
+		what are the ways to improve performance of bigquery		
+		what is star schema		
